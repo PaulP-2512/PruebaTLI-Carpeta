@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\controllers\\encabezadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\controllers\\encabezadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\models\\encabezadofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\models\\encabezadofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\capa-negocio-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\capa-negocio-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|e:\\proyectos\\proyectosentrevistas\\pruebatecnicatli\\capa-negocio-api\\capa-negocio-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE3749-3AD2-41F1-B229-C729A0F19AE9}|capa-negocio-api\\capa-negocio-api.csproj|solutionrelative:capa-negocio-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetallesController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\DetallesController.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Controllers\\DetallesController.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\DetallesController.cs",
+              "RelativeToolTip": "capa-negocio-api\\Controllers\\DetallesController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwHMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:14:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncabezadosController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\EncabezadosController.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Controllers\\EncabezadosController.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\EncabezadosController.cs",
+              "RelativeToolTip": "capa-negocio-api\\Controllers\\EncabezadosController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:13:41.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Controllers\\ProductosController.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "capa-negocio-api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwFgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:13:10.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Controllers\\ClientesController.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "capa-negocio-api\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:12:26.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Models\\DetalleFactura.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "capa-negocio-api\\Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:08:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncabezadoFactura.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\EncabezadoFactura.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Models\\EncabezadoFactura.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\EncabezadoFactura.cs",
+              "RelativeToolTip": "capa-negocio-api\\Models\\EncabezadoFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:08:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Models\\Producto.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\Producto.cs",
+              "RelativeToolTip": "capa-negocio-api\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:06:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Models\\Cliente.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Models\\Cliente.cs",
+              "RelativeToolTip": "capa-negocio-api\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:39:27.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Program.cs",
+              "RelativeDocumentMoniker": "capa-negocio-api\\Program.cs",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\Program.cs",
+              "RelativeToolTip": "capa-negocio-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:30:21.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "capa-negocio-api",
+              "DocumentMoniker": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\capa-negocio-api.csproj",
+              "RelativeDocumentMoniker": "capa-negocio-api\\capa-negocio-api.csproj",
+              "ToolTip": "E:\\Proyectos\\ProyectosEntrevistas\\PruebaTecnicaTLI\\capa-negocio-api\\capa-negocio-api\\capa-negocio-api.csproj",
+              "RelativeToolTip": "capa-negocio-api\\capa-negocio-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T21:28:42.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
